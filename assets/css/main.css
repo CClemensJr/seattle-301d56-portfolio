@@ -2555,11 +2555,11 @@ input, select, textarea {
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	/* @media screen and (max-width: 736px) { */
 
 		/* Basic */
 
-			body, input, textarea, select {
+			/* body, input, textarea, select {
 				font-size: 14pt;
 			}
 
@@ -2575,14 +2575,14 @@ input, select, textarea {
 
 		/* List */
 
-			ul.icons a {
+			/*ul.icons a {
 				width: 2em;
 				font-size: 1.25em;
-			}
+			} */
 
 		/* Main */
 
-			#main > section {
+			/* #main > section {
 				padding: 2em 0;
 			}
 
@@ -2592,11 +2592,11 @@ input, select, textarea {
 
 				#main section.cover header {
 					padding: 0 1em;
-				}
+				} */
 
 		/* Footer */
 
-			#footer .copyright li {
+			/* #footer .copyright li {
 				display: block;
 				line-height: 1.25em;
 				border: 0;
@@ -2608,4 +2608,4 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-	}
+	} */
