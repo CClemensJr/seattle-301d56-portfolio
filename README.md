@@ -12,8 +12,8 @@
 ### Feature 2: Modify Contents
   * Estimated time to complete: 2 hours
   * Start time: 11:15am
-  * Finish time: 
-  * Actual time needed to complete:
+  * Finish time: 12:30am
+  * Actual time needed to complete: 75 minutes
 
 ## Authors
 > **Charles Clemens** - *Initial work* - [CClemensJr](https://github.com/CClemensJr)
