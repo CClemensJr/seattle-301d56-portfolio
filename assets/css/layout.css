@@ -1543,12 +1543,12 @@ section, article {
   .image.avatar48 {
     width: 48px;
     height: 48px;
-    background: #f00;
+    background: black;
   }
 
     .image.avatar48 img {
-      width: 48px;
-      height: 48px;
+      background: url("../../images/background.jpg");
+      background-size: contain;
     }
 
   .image.fit {
