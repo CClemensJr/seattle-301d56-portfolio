@@ -212,7 +212,7 @@ input, select, textarea {
 
 /* Container */
 
-	.container {
+	/* .container {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
@@ -260,7 +260,7 @@ input, select, textarea {
 
 /* Row */
 
-	.row {
+	/* .row {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
@@ -1724,11 +1724,11 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		}  */
 
 /* Sections/Article */
 
-	section, article {
+	/* section, article {
 		margin-bottom: 3em;
 	}
 
@@ -1740,7 +1740,7 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		}
+		} */
 
 /* Image */
 
