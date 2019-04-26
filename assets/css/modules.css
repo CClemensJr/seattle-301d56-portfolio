@@ -1,6 +1,7 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
+@import "./modules/header-module.css";
 @import "./modules/button-module.css";
 @import "./modules/items-and-icons-module.css";
 @import "./modules/table-module.css";
