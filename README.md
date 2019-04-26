@@ -6,12 +6,12 @@
 ### Feature 1: Refactor CSS
   * Estimated time to complete: 1.5 hours
   * Start time: 9:45am
-  * Finish time: 
-  * Actual time needed to complete:
+  * Finish time: 10:45am
+  * Actual time needed to complete: 1 hour
 
 ### Feature 2: Modify Contents
-  * Estimated time to complete:
-  * Start time:
+  * Estimated time to complete: 2 hours
+  * Start time: 11:15am
   * Finish time: 
   * Actual time needed to complete:
 
