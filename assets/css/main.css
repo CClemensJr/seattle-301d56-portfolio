@@ -2251,49 +2251,49 @@ input, select, textarea {
 
 /* Wide */
 
-	@media screen and (min-width: 961px) and (max-width: 1880px) {
+	/* @media screen and (min-width: 961px) and (max-width: 1880px) { */
 
 		/* Basic */
 
-			body, input, textarea, select {
+			/* body, input, textarea, select {
 				font-size: 17pt;
-			}
+			} */
 
 		/* Header */
 
-			#header {
+			/* #header {
 				width: 300px;
-			}
+			} */
 
 		/* Footer */
 
-			#footer {
+			/* #footer {
 				margin-left: 300px;
-			}
+			} */
 
 		/* Main */
 
-			#main {
+			/* #main {
 				margin-left: 300px;
-			}
+			} */
 
-	}
+	/* } */
 
 /* Normal */
 
-	@media screen and (min-width: 961px) and (max-width: 1620px) {
+	/* @media screen and (min-width: 961px) and (max-width: 1620px) { */
 
 		/* Main */
 
-			#main > section {
+			/* #main > section {
 				padding: 3em 0;
-			}
+			} */
 
-			#main section.cover {
+			/* #main section.cover {
 				padding: 5em 0;
-			}
+			} */
 
-	}
+	/* } */
 
 /* Narrow */
 
