@@ -11,7 +11,7 @@
 
 ### Feature 2: Modify Contents
   * Estimated time to complete: 2 hours
-  * Start time:
+  * Start time: 11:15am
   * Finish time: 
   * Actual time needed to complete:
 
