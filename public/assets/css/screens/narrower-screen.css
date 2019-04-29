@@ -37,7 +37,7 @@
 
   /* Header */
 
-    #header {
+    /* #header {
       -moz-backface-visibility: hidden;
       -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
@@ -154,17 +154,17 @@
       -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
       transform: translateX(0);
-    }
+    } */
 
   /* Footer */
 
-    #footer {
+    /* #footer {
       margin-left: 0;
-    }
+    } */
 
   /* Main */
 
-    #main {
+    /* #main {
       -moz-backface-visibility: hidden;
       -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
@@ -175,7 +175,7 @@
       transition: transform 0.5s ease;
       padding-bottom: 1px;
       margin-left: 0;
-    }
+    } */
 
       #main > section {
         padding: 3em 0;
