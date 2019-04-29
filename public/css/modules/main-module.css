@@ -56,3 +56,13 @@
     #main > section.four {
       background-color: #e8edec;
     }
+
+    #main #vidwrapper {
+      display: inline;
+      margin: 0 auto;
+      z-index: -10000;
+    }
+
+    #main video {
+      width: 100%;
+    }
