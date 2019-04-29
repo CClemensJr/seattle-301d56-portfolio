@@ -15,6 +15,12 @@
   * Finish time: 12:30am
   * Actual time needed to complete: 75 minutes
 
+### Feature 3: Add Functionality
+  * Estimated time to complete: 1 hour
+  * Start time: 9:05am
+  * Finish time:
+  * Actual time needed to complete:
+
 ## Authors
 > **Charles Clemens** - *Initial work* - [CClemensJr](https://github.com/CClemensJr)
 
