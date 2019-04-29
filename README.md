@@ -18,8 +18,8 @@
 ### Feature 3: Add Functionality
   * Estimated time to complete: 1 hour
   * Start time: 9:05am
-  * Finish time:
-  * Actual time needed to complete:
+  * Finish time: 10:15am
+  * Actual time needed to complete: 70 minutes
 
 ## Authors
 > **Charles Clemens** - *Initial work* - [CClemensJr](https://github.com/CClemensJr)
