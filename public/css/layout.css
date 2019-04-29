@@ -1547,7 +1547,7 @@ section, article {
   }
 
     .image.avatar48 img {
-      background: url("../../images/background.jpg");
+      background: url("./../assets/images/background.jpg");
       background-size: contain;
     }
 
