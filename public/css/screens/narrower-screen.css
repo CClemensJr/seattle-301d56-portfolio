@@ -1,0 +1,58 @@
+#headerToggle {
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+
+  /* Basic */
+
+    html, body {
+      overflow-x: hidden;
+    }
+
+    body, input, textarea, select {
+      font-size: 14pt;
+    }
+
+    header br {
+      display: none;
+    }
+
+    .container {
+      padding: 0 2em 0 2em;
+    }
+
+  /* Item */
+
+    .item {
+      margin-bottom: 15px;
+    }
+
+  /* Icons */
+
+    ul.icons a {
+      width: 1.75em;
+      font-size: 1.25em;
+    }
+
+  /* Header */
+
+    #header {
+      width: 20%;
+    }
+
+  
+  /* Main */
+    #main {
+      margin-left: 20%;
+      margin-right: auto;
+    }
+      #main > section {
+        padding: 3em 0;
+      }
+
+      #main section.cover {
+        padding: 4em 0;
+      }
+
+}

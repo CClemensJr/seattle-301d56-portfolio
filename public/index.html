@@ -9,10 +9,12 @@
 		<title>Charles Clemens | Software Development Engineer</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="./assets/css/reset.css">
-		<link rel="stylesheet" href="./assets/css/base.css">
-		<link rel="stylesheet" href="./assets/css/layout.css">
-		<link rel="stylesheet" href="./assets/css/imports.css">
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="./css/reset.css">
+		<link rel="stylesheet" href="./css/base.css">
+		<link rel="stylesheet" href="./css/layout.css">
+		<link rel="stylesheet" href="./css/imports.css">
 	</head>
 	<body class="is-preload">
 
@@ -23,7 +25,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="./images/background.jpg" alt="" /></span>
+							<span class="image avatar48"><img src="./assets/images/background.jpg" alt="" /></span>
 							<h1 id="title">Charles Clemens</h1>
 							<p>Software Development Engineer</p>
 						</div>
@@ -59,7 +61,9 @@
 				<!-- Intro -->
 					<section id="top" class="one dark cover">
 						<div class="container">
-
+							<div id="vidwrapper">
+								<video src="./assets/videos/me540p.mp4" autoplay="true" loop="true" muted="true" playsinline="true"></video>
+							</div>
 							<header>
 								<h2 class="alt">Hi! I'm <strong>Charles</strong>, a full stack web developer and veteran<br />
 									with a passion for a passion for personal growth.</h2>
@@ -87,13 +91,13 @@
 							<div class="row">
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/cityexplorer.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/cityexplorer.jpg" alt="" /></a>
 										<header>
 											<h3>City Explorer</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/iron.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/iron.jpg" alt="" /></a>
 										<header>
 											<h3>Chordle</h3>
 										</header>
@@ -101,13 +105,13 @@
 								</div>
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/fridgemags.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/fridgemags.jpg" alt="" /></a>
 										<header>
 											<h3>Mag.Net</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/horncow.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/horncow.jpg" alt="" /></a>
 										<header>
 											<h3>The Gallery of Horns</h3>
 										</header>
@@ -115,13 +119,13 @@
 								</div>
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/busseats.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/busseats.jpg" alt="" /></a>
 										<header>
 											<h3>Bus Mall</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="./images/cookies.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="./assets/images/cookies.jpg" alt="" /></a>
 										<header>
 											<h3>Salmon Cookies</h3>
 										</header>
@@ -140,7 +144,7 @@
 								<h2>About Me</h2>
 							</header>
 
-							<a href="#" class="image featured"><img src="./images/laptopcoding.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="./assets/images/laptopcoding.jpg" alt="" /></a>
 
 							<p>Hi! Charles is my name and I am many things beside a full stack web developer (though I do find myself humming Kip's ode to technology from the movie Napolean Dynamite quite often).</p> 
 							<p>Family man, martial artist, veteran, author, comedian, gamer, bassist, public speaker; these are all labels that describe different aspects of myself. At the core I am a man that yearns for growth, a lifelong learner that spends more time researching, contemplating, and practicing than just about anything else.</p>
@@ -189,10 +193,14 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<script
+				src="https://code.jquery.com/jquery-3.4.0.min.js"
+				integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg="
+				crossorigin="anonymous">
+			</script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollex/0.2.1/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-browser/0.1.0/jquery.browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
